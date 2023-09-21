@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+      background-color: red;
+      background-image: ;
+      
+}
+body:hover{
+       background-image: url('ganesh2.jpeg');
+       
+}
+span{
+     margin-left: 300px;
+     margin-top: 0px;
+     font-family: Sans-Serif;
+     color: red;
+     font-weight: bold;
+     font-size: 50px;
+}
+
+.header{
+ padding: 20px;
+ border: 2px solid red;
+ box-shadow: 5px black;
+ background-color: yellow;
+ 
+}
+.header.imgg{
+  margin-left: 0px;
+  width: 200px;
+  height: 200px;
+}
+.header:hover{
+  padding: 100px;
+  
+}
+.li{
+  display: flex;
+  justify-content: center;
+}
